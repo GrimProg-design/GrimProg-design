@@ -1,20 +1,29 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhycnRhazR0eGd1dmpvZHUxeWhveHVrZDZ0bTYzcjF3OWlpOXgzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lo67E51h6r4v1wcLDV/giphy.gif" width="100"/>
   <div id="badges">
-    <img src="https://img.shields.io/badge/Hobby-Coding_&_Chess-blueviolet?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Hobby-Coding_&_Chess-blueviolet?style=for-the-badge"/><br/>
     <img src="https://img.shields.io/badge/Loves-Open_Source-brightgreen?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Cats-Lover-ff69b4?style=for-the-badge&logo=cat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cats-Lover-ff69b4?style=for-the-badge&logo=cat&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/Treehugger-%F0%9F%8C%B3-green?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Loves-Space-6e40c9?style=for-the-badge&logo=spacex&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Moon-Enthusiast-blue?style=for-the-badge&logo=moon&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Moon-Enthusiast-blue?style=for-the-badge&logo=moon&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/Debugger-In_Progress-orange?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Powered_by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
     <img src="https://img.shields.io/badge/Brain_Mode-ON-important?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Mood-%F0%9F%8D%83_hungry-orange?style=for-the-badge"/>
-
-
+    <img src="https://img.shields.io/badge/Mood-%F0%9F%8D%83_hungry-orange?style=for-the-badge"/><br/>
+    <img src="https://img.shields.io/badge/Bookworm-blue?style=for-the-badge&logo=bookstack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Space_Explorer-darkblue?style=for-the-badge&logo=spacex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Music_Fan-yellow?style=for-the-badge&logo=spotify&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Plant_Parent-green?style=for-the-badge&logo=plantuml&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Coffee-Lover-brown?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Code-Ninja-black?style=for-the-badge&logo=github&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/Pixel_Artist-purple?style=for-the-badge&logo=pixabay&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Brain_Mode-ON-important?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Debugging-In_Progress-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Coffee_Break-brown?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Focus_Mode-on-green?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Astro-Nerd-darkblue?style=for-the-badge&logo=space-x&logoColor=white"/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
     Доброго времени суток
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
