@@ -41,7 +41,7 @@
 
 - :seedling: Сосредоточен на создании адаптивного дизайна с высокой безопасностью и хорошей доступностью для всех пользователей.
 
-- :hammer_and_wrench: Любимые технологии: JavaScript, React, Node.js/Express, MongoDB
+- :hammer_and_wrench: Любимые технологии: JavaScript, React, Node.js/Express, MongoDB, Swift/SwiftUI
 
 - :dart: Цель: создавать быстрые, безопасные и удобные для всех пользователей веб-приложения
 
@@ -65,8 +65,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pug/pug-original.svg" title="Pug.js" alt="Pug.js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Pug.js" alt="Pug.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
 </div>
-
 ---
 
 
