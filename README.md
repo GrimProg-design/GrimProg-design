@@ -52,9 +52,9 @@ struct Developer {
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 ### Other
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -70,22 +70,38 @@ struct Developer {
 ## Currently
 
 ```swift
-let learning: [String] =  [ "Swift", "SwiftUI", "UIKit", "Swift Data", "Core Data", "URLSession" ]
-building:    [ "your current project" ]
-exploring:   [ "new tech you're curious about" ]
+let learning =  [ "Swift", "SwiftUI", "UIKit", "Swift Data", "Core Data", "URLSession" ]
+let building = [ "myOffice", "webSiteForChurch" ]
+let exploring = [ "ML engeneering", "game on swift", "extension for apps (swift)" ]
 ```
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GrimProg-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrimProg-design&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GrimProg-design&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GrimProg-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrimProg-design&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9"/>
+
+<img width="700" src="https://streak-stats.vercel.app?user=GrimProg-design&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=c9d1d9"/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 </div>
 
 ---
@@ -95,11 +111,11 @@ exploring:   [ "new tech you're curious about" ]
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@grim__gami-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grim_gami)
-<!-- add more links here: GitHub, LinkedIn, portfolio etc -->
 
 </div>
 
 <br/>
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
