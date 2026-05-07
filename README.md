@@ -31,11 +31,16 @@ struct Developer {
 </tr>
 </table>
 </div>
+
 ---
 
-## ⚡ Stack
+## Stack
 
 <div align="center">
+
+### 📱 Mobile
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=apple&logoColor=white)
 
 ### 🖥️ Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -49,20 +54,23 @@ struct Developer {
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-### 📱 Mobile & Other
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=apple&logoColor=white)
+### Other
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+
 
 </div>
 
 ---
 
-## 🌱 Currently
+## Currently
 
-```yaml
-learning:    [ "your current focus here" ]
+```swift
+let learning: [String] =  [ "Swift", "SwiftUI", "UIKit", "Swift Data", "Core Data", "URLSession" ]
 building:    [ "your current project" ]
 exploring:   [ "new tech you're curious about" ]
 ```
