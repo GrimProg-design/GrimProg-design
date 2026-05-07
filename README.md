@@ -96,10 +96,7 @@ let exploring = [ "ML engeneering", "game on swift", "extension for apps (swift)
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <img src="https://raw.githubusercontent.com/GrimProg-design/GrimProg-design/output/github-snake-dark.svg" />
 </picture>
 
 </div>
